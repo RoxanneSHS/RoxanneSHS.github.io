@@ -2,17 +2,7 @@
 <html>
 <head>
 <!-- Global Site Tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121011084-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-121011084-2');
-</script>
-<title>EET Mod Compatibility List</title>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<style type="text/css">/*<![CDATA[*/
 <!--
 body  {
   font-family: Arial, Helvetica, sans-serif;

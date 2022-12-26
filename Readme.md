@@ -340,7 +340,7 @@ a:hover.spoiler {
 	<li><a href="https://github.com/SpellholdStudios/ImoenFriendship">Imoen Friendship</a> v3.4 or above</li>
 	<li><a href="http://imoen.blindmonkey.org/">Imoen Romance</a> v3.9 or above (updated recently, may need some testing)</li>
 	<li><a href="https://github.com/Argent77/A7-ImprovedArcher">Improved Archer Kit</a> v2.2 or above</li>
-	<li><a href="https://github.com/RoxanneSHS/Asylum">Improved Asylum</a> v200 or above</li>
+	<li><a href="https://github.com/RoxanneSHS/Asylum">Improved Asylum</a> v201 or above</li>
 	<li><a href="https://github.com/Argent77/A7-ImprovedShamanicDance">Improved Shamanic Dance</a> v4.2 or above</li>
 	<li><a href="https://www.dropbox.com/s/vrplwuj5gz0cahu/ThOghma_v1.8.zip?dl=1">In Oghma's Service</a> v1.8</li>
 	<li><a href="https://github.com/RoxanneSHS/Indira">Indira NPC</a> v13 or above</li>
@@ -403,7 +403,7 @@ a:hover.spoiler {
 	<li><a href="http://www.pocketplane.net/mambo/index.php?option=com_content&task=blogcategory&id=104&Itemid=81">NPC Flirt Packs</a> v1.04 or above</li>
 	<li><a href="https://www.gibberlings3.net/mods/tweaks/npckit/">NPC Kitpack</a> v5</li>
 	<li><a href="https://www.gibberlings3.net/mods/npcs/glam-npc-pack/">NPC Pack (Glam's NPCs)</a> v1.0 or above</li>
-	<li><a href="https://www.dropbox.com/s/geiznoz0wpask2a/NPCStrongholds_V14.zip?dl=1">NPC Strongholds</a> v14</li>
+	<li><a href="https://www.dropbox.com/s/sugrp1m42yda24f/NPCStrongholds_V15.zip?dl=1">NPC Strongholds</a> v15</li>
 	<li><a href="https://www.gibberlings3.net/mods/tweaks/npctweak/">NPC Tweak</a> v6</li>
 	<li><a href="https://github.com/subtledoctor/NPC_EE/releases">NPC_EE</a> v2.3 or above</li>
 	<li><a href="https://github.com/thisisulb/NoSoDSound">NPCs keep BG1 sound sets during SoD</a> v1 or above</li>

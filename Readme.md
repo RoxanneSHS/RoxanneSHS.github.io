@@ -151,7 +151,7 @@ a:hover.spoiler {
 <h1>Mod Compatibility List for EET</h1>
 <div class="section">
 
-<p>Last Updated: <strong>02.01.2023</strong></p>
+<p>Last Updated: <strong>07.02.2023</strong></p>
 <p>This compatibility list is frequently updated. </p>
 
  
@@ -498,7 +498,7 @@ a:hover.spoiler {
 	<li><a href="https://github.com/RoxanneSHS/The-Rune">Twisting with the Rune</a> </li>
 	<li><a href="http://mods.pocketplane.net/TurnaboutV13EE.zip">Turnabout</a> v1.3 (Requires Ascension mod)</li>
 	<li><a href="https://www.gibberlings3.net/mods/tweaks/tweaks/">Tweaks Anthology</a> v8</li>
-	<li><a href="https://github.com/RoxanneSHS/TyrisEE">Tyris Flare</a> v8</li>
+	<li><a href="https://github.com/RoxanneSHS/TyrisEE">Tyris Flare</a> v10.2</li>
 	<li><a href="https://www.dropbox.com/s/lu3ymv2j8l1w2dh/UldarNPC.zip?dl=0">Uldar the Babarian</a> v1.0</li>
 	<li><a href="http://forums.blackwyrmlair.net/index.php?showtopic=3074">Ulrien Of Cormyr, Saga Master</a> v1.0</li>
 	<li><a href="https://www.gibberlings3.net/forums/topic/29667-release-candidate-for-unfinished-business-v27/">Unfinished Business</a> v27 RC1</li>

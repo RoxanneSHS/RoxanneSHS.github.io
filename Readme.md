@@ -151,7 +151,7 @@ a:hover.spoiler {
 <h1>Mod Compatibility List for EET</h1>
 <div class="section">
 
-<p>Last Updated: <strong>07.02.2023</strong></p>
+<p>Last Updated: <strong>11.02.2023</strong></p>
 <p>This compatibility list is frequently updated. </p>
 
  
@@ -280,7 +280,7 @@ a:hover.spoiler {
 	<li><a href="https://www.gibberlings3.net/mods/npcs/coran/">Coran's BG Extended Friendship Talks</a> v5 or above</li>
 	<li><a href="http://mods.pocketplane.net/kulyok/Coran_v6.zip">Coran for BG2</a> v6</li>
 	<li><a href="https://www.gibberlings3.net/mods/npcs/corthala/">Corthala Romantique</a> v2 or above</li>
-	<li><a href="https://github.com/RoxanneSHS/Corwin">Corwin NPC</a> v1.1 or above</li>
+	<li><a href="https://github.com/RoxanneSHS/Corwin">Corwin NPC</a> v1.2 or above</li>
 	<li><a href="https://github.com/Maltodaxtrin/CowledMenace">Cowled Menace</a> v0.2 or above</li>
 	<li><a href="https://www.gibberlings3.net/mods/npcs/crossmod/">Crossmod Banter Pack for Baldur's Gate II</a> v16</li>
 	<li><a href="https://www.dropbox.com/s/gpxkd39wcqf6ew3/A7-Spellsword-v1.5.zip?dl=1">Custom Kits: The Spellsword</a> v1.4.1 or above</li>

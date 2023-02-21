@@ -151,7 +151,7 @@ a:hover.spoiler {
 <h1>Mod Compatibility List for EET</h1>
 <div class="section">
 
-<p>Last Updated: <strong>11.02.2023</strong></p>
+<p>Last Updated: <strong>21.02.2023</strong></p>
 <p>This compatibility list is frequently updated. </p>
 
  
@@ -479,7 +479,6 @@ a:hover.spoiler {
 	<li><a href="https://www.gibberlings3.net/mods/quests/thecalling/">The Calling</a> IMPORTANT install after SCS or Tweaks Anthology but prior Sandrah, this way all mods automatically skip redundant components.</li>
 	<li><a href="https://github.com/RoxanneSHS/TDDz">The Darkest Day EE edition (TDDz)</a> v1.2.9 or above (please refer to the TDDz readme - this mod needs external resources from <a href="https://github.com/EE-Mod-Setup/TDD/archive/V1.14.zip">original TDD</a>)</li>
 	<li><a href="https://github.com/K4thos/TGC1e">The Grey Clan Episode I: In Candlelight</a> v1.9 beta or above</li>
-	<li><a href="https://www.dropbox.com/s/dcs9dgiy0vcvgby/TheHorde_1.2.zip?dl=1">The Horde</a> v1.2 beta or above NOTE requires java to install the mod</li>
 	<li><a href="http://www.pocketplane.net/mambo/index.php?option=com_content&task=blogcategory&id=134&Itemid=94">The Lure of the Sirine's Call</a> v15 or above</li>
 	<li><a href="https://www.dropbox.com/s/hh1buau5xpz3kat/slandor.1.6.zip?dl=1">The Minotaur and Lilacor</a> v1.6</li>
 	<li><a href="http://www.pocketplane.net/sellswords">The Sellswords</a> v7</li>

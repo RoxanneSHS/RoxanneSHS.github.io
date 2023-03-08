@@ -151,7 +151,7 @@ a:hover.spoiler {
 <h1>Mod Compatibility List for EET</h1>
 <div class="section">
 
-<p>Last Updated: <strong>21.02.2023</strong></p>
+<p>Last Updated: <strong>08.03.2023</strong></p>
 <p>This compatibility list is frequently updated. </p>
 
  
@@ -440,7 +440,7 @@ a:hover.spoiler {
 	<li><a href="https://www.dropbox.com/s/ryw4tn3r1vuohkn/7c%23sartweak_v1.2.zip?dl=0">Sarevok related tweaks</a> v1.2 or above</li>
 	<li><a href="https://github.com/subtledoctor/Scales_of_Balance/releases">Scales of Balance</a> v5.1 or above, use with caution  </li>
 	<li><a href="https://github.com/subtledoctor/d5_Random_Tweaks">SD's Random Tweaks</a> v1.1 or above</li>
-	<li><a href="https://github.com/RoxanneSHS/BoneHill">Secret of Bone Hill</a> v33</li>
+	<li><a href="https://github.com/RoxanneSHS/BoneHill">Secret of Bone Hill</a> v34</li>
 	<li><a href="https://github.com/ArtemiusI/Shadow-Magic/archive/master.zip">Shadow Magic</a> v1.85 or later</li>
 	<li><a href="https://github.com/RoxanneSHS/SoS-EE">Shadows Over Soubar</a> v3 or later</li>
 	<li><a href="https://www.gibberlings3.net/mods/other/shards/">Shards Of Ice</a> v6</li>
